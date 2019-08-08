@@ -1,22 +1,18 @@
-package com.example.suporte04.trabfinaldoprofcrush;
+package com.example.suporte04.contatinhos;
 
 import android.app.Activity;
-import android.content.ContentValues;
 import android.content.Context;
 import android.content.ContextWrapper;
 import android.content.Intent;
-import android.os.Parcelable;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 
 
 import java.io.Serializable;
-import java.util.ArrayList;
 import java.util.List;
 
 import retrofit2.Call;

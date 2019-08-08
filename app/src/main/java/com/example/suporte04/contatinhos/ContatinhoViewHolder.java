@@ -1,6 +1,5 @@
-package com.example.suporte04.trabfinaldoprofcrush;
+package com.example.suporte04.contatinhos;
 
-import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.Button;

@@ -1,4 +1,4 @@
-package com.example.suporte04.trabfinaldoprofcrush;
+package com.example.suporte04.contatinhos;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

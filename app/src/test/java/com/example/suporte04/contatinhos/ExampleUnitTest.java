@@ -1,4 +1,4 @@
-package com.example.suporte04.trabfinaldoprofcrush;
+package com.example.suporte04.contatinhos;
 
 import org.junit.Test;
 

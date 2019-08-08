@@ -1,4 +1,4 @@
-package com.example.suporte04.trabfinaldoprofcrush;
+package com.example.suporte04.contatinhos;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
